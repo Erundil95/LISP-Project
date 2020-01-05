@@ -1,0 +1,7 @@
+STUFF TO DO:
+
+	- Consider using Let variables instead of calling functions multiple times
+	  like First or Rest
+	- Scrivere README file
+	- make sure that the files are load ready (ask on group)
+	- Remove defvars
